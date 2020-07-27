@@ -39,6 +39,7 @@ So, I modified it a bit makes it work on Deepin OS.
 #### Download and install on Deepin OS:
 ```
     # Download
+    $ sudo apt install tor iptables iptables-dev
     $ git clone https://github.com/rouze-d/deepin-nipe
     $ cd nipe
     $ sudo cpan install Try::Tiny Config::Simple JSON
