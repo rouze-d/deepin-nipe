@@ -4,7 +4,7 @@ This tool is from:
 <a href="https://github.com/GouveaHeitor/nipe"><h4>https://github.com/GouveaHeitor/nipe</h4></a>
 by~ <a href="https://github.com/GouveaHeitor">Heitor Gouvêa</a> (Big thanks to you).
 
-<p>However, the original nipe (<a href="https://github.com/GouveaHeitor/nipe">https://github.com/GouveaHeitor/nipe</a>) not working on Deeppin OS.<br>
+<p>However, the original nipe (<a href="https://github.com/GouveaHeitor/nipe">https://github.com/GouveaHeitor/nipe</a>) not working on <a href="https://www.deepin.org"> Deepin OS.</a><br>
 So, I modified it a bit makes it work on Deepin OS.
 
 <p align="center">
