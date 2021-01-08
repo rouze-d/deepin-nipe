@@ -6,7 +6,9 @@ User debian-tor
 ControlSocket /var/run/tor/control GroupWritable RelaxDirModeCheck
 ControlSocketsGroupWritable 1
 SocksPort unix:/var/run/tor/socks WorldWritable
+
 SocksPort 9050
+ControlPort 9051
 TransPort 9040
 DNSPort 9061
 
